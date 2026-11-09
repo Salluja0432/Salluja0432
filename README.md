@@ -37,6 +37,6 @@ I'm a software development student at **Jovem Tech**, building my programming fo
 ## 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Salluja0432&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Salluja0432" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salluja0432&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Salluja0432&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Salluja0432" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salluja0432&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
