@@ -6,13 +6,15 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou estudante de desenvolvimento de software no **Jovem Tech** e estou construindo minha base em programação por meio de atividades e projetos práticos. No momento, meus estudos estão voltados para **JavaScript, Node.js, TypeScript e Programação Orientada a Objetos**.
+Sou estudante de Desenvolvimento de Software no **Jovem Tech**. Gosto de aprender colocando a mão na massa: resolvendo atividades, testando ideias e desenvolvendo projetos para transformar o conteúdo das aulas em prática.
 
-- 🌱 Atualmente estudando TypeScript, classes, objetos e POO.
-- 🧩 Praticando lógica de programação, organização de código e versionamento com Git e GitHub.
-- 🚀 Compartilhando por aqui minha evolução e os projetos que desenvolvo durante o curso.
+Atualmente, estou construindo minha base em **JavaScript e TypeScript**, utilizando **Node.js** e ferramentas como **Git e GitHub** para desenvolver e organizar meus projetos.
 
-## 🛠️ Tecnologias em estudo
+- 🌱 Estudando programação, TypeScript e conceitos de orientação a objetos.
+- 💻 Praticando lógica, resolução de problemas e organização de código.
+- 🚀 Registrando neste perfil minha evolução e os projetos desenvolvidos ao longo do aprendizado.
+
+## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
   <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -20,19 +22,20 @@ Sou estudante de desenvolvimento de software no **Jovem Tech** e estou construin
   <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Visual Studio Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
 ## 📌 Projetos em destaque
 
 - **[Jogo da Velha — Melhor de 5](https://github.com/jhonatas23/jovemtech_jogo_da_velha/tree/artur)**  
-  Projeto em equipe desenvolvido como trabalho final do módulo de lógica e versionamento do Jovem Tech.
+  Projeto desenvolvido em equipe como trabalho final do Módulo 2 do Jovem Tech, com foco em lógica de programação e versionamento.
 
 - **[archiejoestar — Módulo 3](https://github.com/Salluja0432/archiejoestar/tree/module3)**  
-  Repositório de estudos com exemplos iniciais de TypeScript, classes e objetos.
+  Repositório de estudos e atividades práticas desenvolvidas durante o Módulo 3.
 
 ## 🇺🇸 About me
 
-I'm a software development student at **Jovem Tech**, building my programming foundations through hands-on exercises and projects. I'm currently learning **JavaScript, Node.js, TypeScript, and Object-Oriented Programming**.
+I'm a Software Development student at **Jovem Tech**, learning by practicing, solving problems, and building projects. I'm currently developing my skills in **JavaScript, TypeScript, and Node.js**, while using **Git and GitHub** to manage and share my work.
 
 ## 📊 GitHub stats
 
