@@ -6,40 +6,55 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou estudante de Desenvolvimento de Software no **Jovem Tech**. Gosto de aprender colocando a mão na massa: resolvendo atividades, testando ideias e desenvolvendo projetos para transformar o conteúdo das aulas em prática.
+Sou estudante de Desenvolvimento de Software no **Jovem Tech**. Gosto de aprender na prática: resolver exercícios, testar ideias e transformar o conteúdo das aulas em projetos.
 
-Atualmente, estou construindo minha base em **JavaScript e TypeScript**, utilizando **Node.js** e ferramentas como **Git e GitHub** para desenvolver e organizar meus projetos.
+Atualmente, estou desenvolvendo minha base em **JavaScript e TypeScript**, utilizando **Node.js** e praticando lógica de programação, orientação a objetos e organização modular de código.
 
-- 🌱 Estudando programação, TypeScript e conceitos de orientação a objetos.
-- 💻 Praticando lógica, resolução de problemas e organização de código.
-- 🚀 Registrando neste perfil minha evolução e os projetos desenvolvidos ao longo do aprendizado.
+Também utilizo **Git e GitHub** para versionar meus trabalhos, organizar os repositórios e acompanhar minha evolução.
 
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
   <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Visual Studio Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
-## 📌 Projetos em destaque
+**Linguagens:** JavaScript · TypeScript
 
-- **[Jogo da Velha — Melhor de 5](https://github.com/jhonatas23/jovemtech_jogo_da_velha/tree/artur)**  
-  Projeto desenvolvido em equipe como trabalho final do Módulo 2 do Jovem Tech, com foco em lógica de programação e versionamento.
+**Ambiente e ferramentas:** Node.js · npm · tsx · Git · GitHub · Visual Studio Code
 
-- **[archiejoestar — Módulo 3](https://github.com/Salluja0432/archiejoestar/tree/module3)**  
-  Repositório de estudos e atividades práticas desenvolvidas durante o Módulo 3.
+## 🚀 Projetos em destaque
+
+### [Space Invaders — Módulo 3](https://github.com/Salluja0432/archiejoestar/tree/module3/SPACE_INVADERS)
+
+Jogo de terminal desenvolvido em TypeScript. A implementação reúne movimentação da nave e dos inimigos, disparos, pontuação e sistema de vidas.
+
+O projeto está organizado em módulos e utiliza conceitos de orientação a objetos, como classes, herança, interfaces e encapsulamento.
+
+- [Documentação e instruções para executar](https://github.com/Salluja0432/archiejoestar/blob/module3/SPACE_INVADERS/README.md)
+- [Registro dos testes manuais](https://github.com/Salluja0432/archiejoestar/blob/module3/SPACE_INVADERS/TESTES_MANUAIS.md)
+- [Histórico de desenvolvimento](https://github.com/Salluja0432/archiejoestar/blob/module3/SPACE_INVADERS/HISTORICO_VERSOES.md)
+
+A documentação identifica separadamente os comportamentos já testados na versão modularizada e aqueles que ainda precisam de validação manual.
+
+### [Jogo da Velha — Melhor de 5](https://github.com/jhonatas23/jovemtech_jogo_da_velha/blob/artur/jdv3final.js)
+
+Projeto desenvolvido em equipe como trabalho final do Módulo 2 do Jovem Tech, utilizando JavaScript e execução pelo terminal.
+
+Possui modo para dois jogadores e modo jogador contra computador, com partidas de até cinco rodadas. No modo contra o computador, as jogadas são escolhidas aleatoriamente entre as posições livres.
+
+### [Estudos e atividades — Módulo 2](https://github.com/Salluja0432/archiejoestar/tree/module2)
+
+Repositório com exercícios e práticas desenvolvidos durante o Módulo 2, incluindo lógica de programação, estruturas de repetição, funções, vetores, matrizes, strings, testes e depuração.
 
 ## 🇺🇸 About me
 
-I'm a Software Development student at **Jovem Tech**, learning by practicing, solving problems, and building projects. I'm currently developing my skills in **JavaScript, TypeScript, and Node.js**, while using **Git and GitHub** to manage and share my work.
+I'm a Software Development student at **Jovem Tech**. I enjoy learning through practice, solving exercises, experimenting with ideas, and turning class topics into projects.
 
-## 📊 GitHub stats
+I'm currently building my foundations in **JavaScript and TypeScript** with **Node.js**, while practicing programming logic, object-oriented programming, and modular code organization.
 
-<p align="left">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Salluja0432&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for Salluja0432" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salluja0432&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
+I also use **Git and GitHub** to version my work, organize repositories, and track my progress.
